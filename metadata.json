@@ -1,0 +1,5 @@
+{
+  "name": "Customer Support Chatbot",
+  "description": "A responsive chatbot application built with React and powered by the Gemini API. It features a clean chat interface, chat history management, and robust API interaction with retry logic.",
+  "requestFramePermissions": []
+}
